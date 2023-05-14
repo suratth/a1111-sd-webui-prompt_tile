@@ -1,0 +1,2 @@
+pro:(masterpiece),(best quality),(ultra-detailed),high resolution,(Highly detailed scenery),dynamic angle
+neg:(worst quality:1.4),(low quality:1.4),text,censorship, watermark,multiple views,comic,monochrome
