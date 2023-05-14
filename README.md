@@ -8,6 +8,7 @@ https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 Instead of supporting lycoris, it displays a .txt file with a prompt description as a card.
 
 Let's manage Styles.csv with GUI! is the purpose.
+Preview images and prompts (positive/negative) can be managed like Lora.
 
 [How to use]
 (1) Create the following directory.
@@ -37,6 +38,7 @@ https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 lycorisをサポートする代わりに、promptの説明を記載した.txtファイルをカードとして表示します。
 
 Styles.csvをGUIで管理しよう！が趣旨です。
+プレビュー画像とプロンプト（ポジティブ/ネガティブ）を、Loraのように管理できます。
 
 【使い方】
 ①下記ディレクトリを作成します。
